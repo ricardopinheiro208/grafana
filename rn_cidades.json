@@ -1,0 +1,20 @@
+[
+  {
+    "key" : "NTL",
+    "name" : "Rio Grande do Norte",
+    "latitude" : -5.79357,
+    "longitude" : -35.1986
+  },
+  {
+    "key" : "GOI",
+    "name" : "Goininha",
+    "latitude" : -6.26892,
+    "longitude" : -35.209
+  },
+  {
+    "key" : "PDF",
+    "name" : "Pau dos Ferros",
+    "latitude" : -6.10249,
+    "longitude" : -38.2092
+  }
+]
